@@ -1,0 +1,71 @@
+{
+    "title": "Easter Eggs quiz",
+    "questions": [
+        {
+            "questionText": "In 'Legend of Zelda: Ocarina of Time' what series' main characters is on the walls of Hyrule castle?",
+            "choices": ["Samus and a Metroid", "Solid Snake and Otacon", "Mario, Bowser, and Luigi", "Kirby"],
+            "answer": 2
+        },
+        {
+            "questionText": "In 'Final Fantasy X' there is an easter egg about Shinra, what game does this suggest it is a prequel to?",
+            "choices": ["Final Fantasy VII", "Kingdom Hearts", "Final Fantasy VIII", "Final Fantasy XIII"],
+            "answer": 0
+        },
+        {
+            "questionText": "In 'Punch-Out!!' for the Wii, which character made a cameo as an optional fight?",
+            "choices": ["Ganondorf", "Donkey kong", "Mike Tyson"],
+            "answer": 1
+        },
+        {
+            "questionText": "In 'The Witcher 2', which character can be found dead in a bale of hay?",
+            "choices": ["Altair", "Ezio", "The Jackal", "Raiden"],
+            "answer": 0
+        },
+        {
+            "questionText": "What is the name to the top secret room in the 'Legend of Zelda: A Link To The Past'?",
+            "choices": [
+                "Dale Larson",
+                "Merlin Price",
+                "Chris Houlihan",
+                "Corrina Huber",
+                "Misbah Hobbs"
+            ],
+            "answer": 2
+        },
+        {
+            "questionText": "What is the name of Snakes Nightmare in 'Metal Gear Solid 3'?",
+            "choices": ["Mr. X", "Revolver Ocelot", "Otacon", "Guy Savage", "The End"],
+            "answer": 3
+        },
+        {
+            "questionText": "In 'Madness Project Nexus' after crashing the truck whos body can be found lying next to a set speakers?",
+            "choices": ["Boyfriend.xml", "Henry Stickmin", "Tankman", "Pico"],
+            "answer": 0
+        },
+        {
+            "questionText": "If you play 'For Honor' on April fools day what happens to your soldiers?",
+            "choices": ["They turn invisible", "They are dressed to modern fasion", "They become chocobos", "They become Rabids", "They become toy soldiers"],
+            "answer": 4
+        },
+        {
+            "questionText": "In 'Resident Evil 2' what mode is a parody of the fourth survivor?",
+            "choices": [
+                "The Lost Survivor",
+                "The Tofu Survivor",
+                "The Wesker files",
+                "The Kale survivor"
+            ],
+            "answer": 1
+        },
+        {
+            "questionText": "In 'Soul Calibur 2' which characer makes an appearence on the Gamecube version",
+            "choices": ["Ezio", "Darth Vader", "Heihachi", "Link"],
+            "answer": 3
+        },
+        {
+            "questionText": "Is Mario a sociopath?",
+            "choices": ["True","False"],
+            "answer": 1
+        }
+    ]
+}
